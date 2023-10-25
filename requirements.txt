@@ -1,0 +1,16 @@
+pip==23.3
+av
+beautifulsoup4
+deepface
+face-alignment
+imutils
+opencv-python-headless
+plotly
+PyGithub
+pytz
+requests
+retina-face
+streamlit
+streamlit-webrtc
+tensorflow
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
